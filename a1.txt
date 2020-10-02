@@ -1,3 +1,1 @@
-This is the first file.
-This is the first change
-Modifying this file also
+Removed the previous changes and making a new change.
